@@ -1,13 +1,13 @@
  \~Hello & Welcome\~  
 
 BIO <br />
-🏢 I'm currently working at: University of Connecicut <br />
+🏢 I'm currently working at: Los Alamos National Lab <br />
 👨🏼‍💻 I use daily: .R, .py ,.sh, .grib, .shp, .tex, .svg, .eps <br />
-🧠 I'm active: within academia and DOE national labs <br />
-📐 Designed: Outage Prediction Models, Work Flow tools for weather analysis, etc… <br />
-🌱 Learning: All about webscraping and high-dimensional spatial deep-learning (CNNs, etc)<br />
+🧠 I'm active: Within academia and DOE national labs <br />
+📐 Designed: Rare Earth Element Mappers, Outage Prediction Models, Work Flow tools for weather analysis, etc… <br />
+🌱 Learning: All about webscraping and high-dimensional spatial deep-learning (Transformers, CNNs, etc)<br />
 🗿 Hobbies: 3D Printing, Japanese <br />
-💬 Ping me about: weather analysis or cool music <br />
+💬 Ping me about: Weather analysis and infrastructure resilience <br />
 🌐 Website: www.docwatson.ai <br /> 
 
 <!---
